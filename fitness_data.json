@@ -1,0 +1,23 @@
+[
+    {
+        "date": "2024-11-19",
+        "activity": "weight training",
+        "duration": 80,
+        "weight": 70.0,
+        "calories": 588.0
+    },
+    {
+        "date": "2024-11-18",
+        "activity": "yoga",
+        "duration": 35,
+        "weight": 70.0,
+        "calories": 107.19
+    },
+    {
+        "date": "2024-11-22",
+        "activity": "running",
+        "duration": 45,
+        "weight": 71.0,
+        "calories": 547.94
+    }
+]
